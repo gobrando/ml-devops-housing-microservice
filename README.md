@@ -1,4 +1,4 @@
-[![gobrando](https://circleci.com/<gh>/gobrando/ml-devops-housing-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/gobrando/ml_housing_microservice)
+[![gobrando](https://circleci.com/<gh>/gobrando/ml-devops-housing-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/gobrando/ml-devops-housing-microservice)
 ## Project Overview
 
 We've built a machine learning model to predict housing prices in the Boston area now it's time to deploy the model into production using Docker and Kubernetes with linting using CircleCi
