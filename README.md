@@ -4,4 +4,4 @@
 We've built a machine learning model to predict housing prices in the Boston area now it's time to deploy the model into production using Docker and Kubernetes with linting using CircleCi
 
 To run in Docker:  `./run_docker.sh`
-To run in Kubernetes:  `./run_kubernetes.sh`
+To run in Kubernetes first enable K8 with either 'start minikube' or using Docker Desktop then run:  `./run_kubernetes.sh`
